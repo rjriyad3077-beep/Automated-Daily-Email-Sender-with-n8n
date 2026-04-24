@@ -67,7 +67,7 @@ Update Row (Mark as Sent)
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/rjriyad3077-beep/Automated-Daily-Email-Sender-with-n8n.git)
 ```
 
 ### 2. Import workflow into n8n
